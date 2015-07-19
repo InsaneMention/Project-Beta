@@ -1,0 +1,16 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\PlayerEngine.cs">
+    <Files>
+      <File FileName="Assets\Scripts\PlayerEngine.cs" Line="16" Column="46" />
+      <File FileName="Assets\Scripts\HeroCamera.cs" Line="13" Column="25" />
+      <File FileName="Assets\Scripts\BackGroundCamera.cs" Line="13" Column="89" />
+      <File FileName="Assets\Scripts\BackGroundImage.cs" Line="10" Column="4" />
+      <File FileName="Assets\GunMove.cs" Line="15" Column="143" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
